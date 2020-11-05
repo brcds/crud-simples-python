@@ -11,7 +11,7 @@ Contribute: https://github.com/brcds/crud-simples-python.git
 * **Install the dependencies:**
 	- *$ pip3 install -requeriments.txt*
   
-*	**Configure psycopg2.connect.**
-	    - *connection = psycopg2.connect("dbname='**Database-Name**' user='**Database-User**' host='**localhost**' password='**Password-Database**' ")*
+* **Configure psycopg2.connect.**
+    - *connection = psycopg2.connect("dbname='**Database-Name**' user='**Database-User**' host='**localhost**' password='**Password-Database**' ")*
 			
 *Be happy!*
